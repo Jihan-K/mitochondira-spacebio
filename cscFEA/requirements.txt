@@ -1,6 +1,0 @@
-matplotlib
-magic
-numpy
-pandas
-torch
-tqdm
